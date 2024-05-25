@@ -1,0 +1,106 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+  max-width: 960px;
+  margin: auto;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+section h2 {
+  color: #5e96ff;
+}
+
+#about {
+  display: flex;
+  align-items: flex-start;
+  
+}
+
+#about h2 {
+  margin: 0;
+}
+
+#about img {
+  margin-right: 1rem;
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+#about p {
+  margin-top: 0.5rem;
+}
+
+.python-translator {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.python-translator img {
+  width: 50%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.restaurant-menu{
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.restaurant-menu img {
+  width: 50%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}

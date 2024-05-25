@@ -1,4 +1,4 @@
-#Personal Website - CSS Project
+# Personal Website - CSS Final Project
 
 I created this personal website as my final project for the **Codédex** CSS course. 
 
